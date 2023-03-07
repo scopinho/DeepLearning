@@ -3,3 +3,5 @@ Fastai_bkp/lib/*
 Fastai_bkp/lib64
 Fastai_bkp/pyvenv.cfg
 Fastai_bkp/share/*
+Fastai_bkp/etc/*
+Fastai_bkp/include/*
