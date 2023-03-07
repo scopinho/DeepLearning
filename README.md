@@ -1,2 +1,2 @@
 # DeepLearning
-Deep Learning studies in python
+Deep Learning studies with python, fastai and pytorch
