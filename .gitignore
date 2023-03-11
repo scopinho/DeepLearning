@@ -5,3 +5,15 @@ Fastai/pyvenv.cfg
 Fastai/share/*
 Fastai/etc/*
 Fastai/include/*
+Fastai/outputs/*
+Fastai/paddy-disease-classification/*
+Fastai/paddy-disease-classification-small/*
+Fastai/us-patent-phrase-to-phrase-matching/*
+Fastai/us-patent-phrase-to-phrase-matching.zip:Zone.Identifier
+Fastai/*.zip
+Fastai/flagged/*
+Fastai/bird_or_not/*
+Fastai/bears/*
+Fastai/results/*
+Fastai/subm.csv
+
